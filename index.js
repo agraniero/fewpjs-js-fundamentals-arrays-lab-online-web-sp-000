@@ -6,6 +6,4 @@ const removeLast = ["Milo", "Otis", "Garfield"];
 const removeFirst = ["Milo", "Otis", "Garfield"];
 
 
-function append (){
-  pets.push("Odie");
-}
+append.push("Odie");
